@@ -66,7 +66,7 @@ def Fgamma(m,x):
     
 def gamm_inc(a,x):
     """
-    Incomple gamma function \gamma; computed from NumRec routine gammp.
+    Incomple gamma function gamma; computed from NumRec routine gammp.
     >>> np.isclose(gamm_inc(0.5,1),1.49365)
     True
     >>> np.isclose(gamm_inc(1.5,2),0.6545103)
