@@ -11,4 +11,8 @@ profile.out
 prof
 docs/_build
 cython/cbecke.c
+cython/chgp_wrap.c
+cython/cone_wrap.c
+cython/crys_wrap.c
+cython/ctwo_wrap.c
 pyquante2.egg-info/
